@@ -1,3 +1,4 @@
 node_modules/
 .env
 coverage/
+school_db.sql
